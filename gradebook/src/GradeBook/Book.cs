@@ -31,6 +31,7 @@ namespace GradeBook
       
       result /= grades.Count;
 
+      Console.WriteLine($"Acquiring data for {name}...");
       Console.WriteLine($"The lowest grade is {lowGrade}");
       Console.WriteLine($"The highest grade is {highGrade}");
       Console.WriteLine($"The average grade is {result}");
