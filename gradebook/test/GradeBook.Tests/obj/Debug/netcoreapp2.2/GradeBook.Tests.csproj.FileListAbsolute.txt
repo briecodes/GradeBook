@@ -1,0 +1,14 @@
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/GradeBook.Tests.deps.json
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/GradeBook.Tests.runtimeconfig.json
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/GradeBook.Tests.runtimeconfig.dev.json
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/GradeBook.Tests.dll
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/GradeBook.Tests.pdb
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.csprojAssemblyReference.cache
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.csproj.CoreCompileInputs.cache
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.AssemblyInfoInputs.cache
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.AssemblyInfo.cs
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.dll
+/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.pdb
