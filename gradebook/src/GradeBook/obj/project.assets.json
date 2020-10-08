@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/brie/.nuget/packages/": {},
+    "/Users/briesaez/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brie/Development/personal/GradeBook/gradebook/src/GradeBook/GradeBook.csproj",
+      "projectUniqueName": "/Users/briesaez/development/personal/GradeBook/gradebook/src/GradeBook/GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "/Users/brie/Development/personal/GradeBook/gradebook/src/GradeBook/GradeBook.csproj",
-      "packagesPath": "/Users/brie/.nuget/packages/",
-      "outputPath": "/Users/brie/Development/personal/GradeBook/gradebook/src/GradeBook/obj/",
+      "projectPath": "/Users/briesaez/development/personal/GradeBook/gradebook/src/GradeBook/GradeBook.csproj",
+      "packagesPath": "/Users/briesaez/.nuget/packages/",
+      "outputPath": "/Users/briesaez/development/personal/GradeBook/gradebook/src/GradeBook/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/brie/.nuget/NuGet/NuGet.Config"
+        "/Users/briesaez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

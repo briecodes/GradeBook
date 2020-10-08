@@ -1673,6 +1673,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "GradeBook/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/GradeBook.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GradeBook.dll": {}
+        }
       }
     }
   },
@@ -5842,10 +5852,16 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "GradeBook/1.0.0": {
+      "type": "project",
+      "path": "../../src/GradeBook/GradeBook.csproj",
+      "msbuildProject": "../../src/GradeBook/GradeBook.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "GradeBook >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "xunit >= 2.4.0",
@@ -5853,23 +5869,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/brie/.nuget/packages/": {},
+    "/Users/briesaez/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
+      "projectUniqueName": "/Users/briesaez/development/personal/GradeBook/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
       "projectName": "GradeBook.Tests",
-      "projectPath": "/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
-      "packagesPath": "/Users/brie/.nuget/packages/",
-      "outputPath": "/Users/brie/Development/personal/GradeBook/gradebook/test/GradeBook.Tests/obj/",
+      "projectPath": "/Users/briesaez/development/personal/GradeBook/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
+      "packagesPath": "/Users/briesaez/.nuget/packages/",
+      "outputPath": "/Users/briesaez/development/personal/GradeBook/gradebook/test/GradeBook.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/brie/.nuget/NuGet/NuGet.Config"
+        "/Users/briesaez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -5879,7 +5895,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/briesaez/development/personal/GradeBook/gradebook/src/GradeBook/GradeBook.csproj": {
+              "projectPath": "/Users/briesaez/development/personal/GradeBook/gradebook/src/GradeBook/GradeBook.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
